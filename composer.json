@@ -10,6 +10,12 @@
             "email": "fabien@pennequin.me"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/davidbonachera/DoctrineExtensions-Taggable"
+        }
+    ],
     "require": {
         "symfony/framework-bundle": ">=2.0",
         "fpn/doctrine-extensions-taggable": "dev-master"
