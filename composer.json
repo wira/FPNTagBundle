@@ -13,12 +13,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/davidbonachera/DoctrineExtensions-Taggable"
+            "url": "https://github.com/wira/DoctrineExtensions-Taggable"
         }
     ],
     "require": {
         "symfony/framework-bundle": ">=2.0",
-        "fpn/doctrine-extensions-taggable": "dev-master"
+        "fpn/doctrine-extensions-taggable": "^0.9.1"
     },
     "autoload": {
         "psr-0": {
